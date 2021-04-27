@@ -14,3 +14,4 @@ This here is an HTML program that allows you create a big board of the 2021 NBA 
 - Some way to see players names without mousing over
 - Numbered big board
 - Some way to display stats or a scouting report for each player
+- A way to use the program on mobile that doesn't involve me buying a web host
